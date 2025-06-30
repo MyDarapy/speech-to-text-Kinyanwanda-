@@ -1,0 +1,10 @@
+datasets 
+transformers
+torch
+torchaudio
+audiomentations
+librosa
+soundfile
+huggingface_hub
+wandb
+lightning 
